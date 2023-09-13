@@ -1,0 +1,24 @@
+body {
+    background: url("background.svg");
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: 90%;
+    background-size: 120%;
+    background-attachment: fixed;
+  }
+
+body #btn-exc{
+  background-color: brown;
+}
+
+body #btn-edit{
+  background-color: #698888;
+}
+
+body #btn-adicionar{
+  background-color: #287a74;
+}
+
+.material-symbols-outlined{
+  color: white;
+}
